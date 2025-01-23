@@ -1,5 +1,5 @@
 # lectinPaint
-Electronic Supporting Information for _"Decoding Cell’s Glycotype with Multiplexed Lectin-PAINT Super-resolution"_
+Electronic Supporting Information for _"Multiplexed Lectin-PAINT super-resolution microscopy enables cell glycotyping"_
 
 ## LICENSE
 
